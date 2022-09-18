@@ -1,6 +1,6 @@
 # Prework Study Guide Webpage
 
-## My motivation was wanting a new career direction with unlimited options and always room to grow, knowing that with about 6 to 7 months of dedication I can be in the career of my dreams for the rest of my life. I built this project becasue i was eager to learn about new things such as VS, HTML, CSS, and JavaScipt. One big problem it solved for me was that it ade me realize that things are as scary as I thought it would be, learning this more about just practice so as long as I continue to practice and work out it, I will figure it out.
+## My motivation was wanting a new career direction with unlimited options and always room to grow, knowing that with about 6 to 7 months of dedication I can be in the career of my dreams for the rest of my life. I built this project becasue i was eager to learn about new things such as VS, HTML, CSS, and JavaScipt. One big problem it solved for me was that it made me realize that things are as scary as I thought it would be, learning this more about just practice so as long as I continue to practice and work out it, I will figure it out.
 
 ## Installation
 
